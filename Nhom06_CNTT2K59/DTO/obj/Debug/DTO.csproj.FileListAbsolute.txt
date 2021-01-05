@@ -1,0 +1,6 @@
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\DTO\bin\Debug\DTO.dll
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\DTO\bin\Debug\DTO.pdb
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\DTO\obj\Debug\DTO.dll
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\DTO\obj\Debug\DTO.pdb
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\DTO\obj\Debug\DTO.csprojAssemblyReference.cache

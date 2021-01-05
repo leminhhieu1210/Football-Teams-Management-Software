@@ -1,0 +1,11 @@
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\DAL\bin\Debug\DAL.dll
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\DAL\bin\Debug\DAL.pdb
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\DAL\obj\Debug\DAL.dll
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\DAL\obj\Debug\DAL.pdb
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\DAL\bin\Debug\DTO.dll
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\DAL\bin\Debug\DTO.pdb
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\DAL\bin\Debug\SystemConstant.dll
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\DAL\bin\Debug\SystemConstant.pdb

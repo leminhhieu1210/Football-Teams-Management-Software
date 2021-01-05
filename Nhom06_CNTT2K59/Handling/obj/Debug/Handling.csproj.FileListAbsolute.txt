@@ -1,0 +1,6 @@
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\Handling\bin\Debug\Handling.dll
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\Handling\bin\Debug\Handling.pdb
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\Handling\obj\Debug\Handling.csproj.CoreCompileInputs.cache
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\Handling\obj\Debug\Handling.dll
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\Handling\obj\Debug\Handling.pdb
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\Handling\obj\Debug\Handling.csprojAssemblyReference.cache

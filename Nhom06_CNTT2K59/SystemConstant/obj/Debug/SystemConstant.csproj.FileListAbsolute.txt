@@ -1,0 +1,6 @@
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\SystemConstant\bin\Debug\SystemConstant.dll
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\SystemConstant\bin\Debug\SystemConstant.pdb
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\SystemConstant\obj\Debug\SystemConstant.csproj.CoreCompileInputs.cache
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\SystemConstant\obj\Debug\SystemConstant.dll
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\SystemConstant\obj\Debug\SystemConstant.pdb
+E:\IT\C#\LapTrinhTrucQuan\Nhom06\Nhom06_CNTT2K59\SystemConstant\obj\Debug\SystemConstant.csprojAssemblyReference.cache
